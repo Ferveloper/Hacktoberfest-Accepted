@@ -1,3 +1,4 @@
+#Insertiom Sort code
 def insertionSort(list):
     # all the values after the first
     index_length = range(1, len(list))
